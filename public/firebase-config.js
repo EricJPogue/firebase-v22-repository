@@ -7,12 +7,12 @@ import { getStorage, ref, uploadBytes, getDownloadURL, listAll, connectStorageEm
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyD2katNo4ixKkLz5vXXBbEtWIEx-6ADhj0",
+  authDomain: "fir-v22-project.firebaseapp.com",
+  projectId: "fir-v22-project",
+  storageBucket: "fir-v22-project.firebasestorage.app",
+  messagingSenderId: "987697547072",
+  appId: "1:987697547072:web:9566d9f2de643523a05ca5"
 };
 
 // Initialize Firebase
